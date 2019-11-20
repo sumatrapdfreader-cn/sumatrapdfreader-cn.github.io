@@ -6,7 +6,7 @@
 **暂无封面**
 
 简介:
-<i>Museums and the Public Sphere</i> investigates the role of museums around the world as sites of democratic public space. <ul><li>Explores the role of museums around the world as sites of public disc...
+<i>Museums and the Public Sphere</i> investigates the role of museums around the world as sites of democratic public space. Explores the role of museums around the world as sites of public disc...
 
 **Occupational Health Law, Fourth Edition**
 
