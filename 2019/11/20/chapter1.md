@@ -1,43 +1,83 @@
 <div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode.jpg" width="344"/></div>
 
-**Molecular Modeling of Inorganic Compounds, Third Edition**
+**Museums and the Public Sphere**
 
 
 **暂无封面**
 
 简介:
-After the second edition introduced first density functional theory aspects, this third edition expands on this topic and offers unique practice in molecular mechanics calculations and DFT. In addition...
+<i>Museums and the Public Sphere</i> investigates the role of museums around the world as sites of democratic public space. <ul><li>Explores the role of museums around the world as sites of public disc...
 
-**Neuronal and Cognitive Effects of Oestrogens: Novartis Foundation Symposium 230**
-
-
-**暂无封面**
-
-简介:
-Although normally thought of as a sex hormone, recent research has highlighted the numerous and significant effects that oestrogen has on the CNS, extending far beyond its important reproductive role. ...
-
-**Organic Reaction Mechanisms 2001: An Annual Survey Covering the Literature Dated January to December 2001**
+**Occupational Health Law, Fourth Edition**
 
 
 **暂无封面**
 
 简介:
-This annual series on organic reaction mechanisms research provides concise, comprehensive coverage of the year's literature as well as discussions of important results, each volume is extensively referenced to previous volumes and primary journals....
+Content: <br>Chapter 1 The Provision of Occupational Health Services (pages 19–42): <br>Chapter 2 The Legal Status and Liability of the OH Professional (pages 43–68): <br>Chapter 3 Medical Records and ...
 
-**Numerical Methods, Volume 3**
-
-
-**暂无封面**
-
-简介:
-This series of five volumes proposes an integrated description of physical processes modeling used by scientific disciplines from meteorology to coastal morphodynamics. Volume 1 describes the physical ...
-
-**The Nonprofit Development Companion: A Workbook for Fundraising Success**
+**The New Chinese City: Globalization and Market Reform**
 
 
 **暂无封面**
 
 简介:
-<p>A comprehensive workbook covering all aspects of successful nonprofit development</p><p>One of the most significant factors in the success of any marketing and fundraising program is the ability and...
+Urbanisation and urban development issues are the focus of this comprehensive account which introduces readers to the far-reaching changes now taking place in Chinese cities.Content: <br>Chapter 1 Thre...
+
+**Neurotransmitters and Neuromodulators: Handbook of Receptors and Biological Effects, Second Edition**
+
+
+**暂无封面**
+
+简介:
+A complete update of the highly acclaimed handbook with data on all neurotransmitters and the majority of neuromodulators. The coverage is now even more comprehensive, with 15% more entries on neuropep...
+
+**Multiple Models Approach in Automation**
+
+
+**暂无封面**
+
+简介:
+Content: <br>Chapter 1 Multiple Model Representation (pages 1–40): Mohammed Chadli, Pierre Borne and Bernard Dubuisson<br>Chapter 2 Stability of Continuous Multiple Models (pages 41–64): Mohammed Chadl...
+
+**Overcoming Anxiety for Dummies®, 2nd Edition**
+
+
+**暂无封面**
+
+简介:
+Content: <br>Chapter 1 Analyzing and Attacking Anxiety (pages 7–19): <br>Chapter 2 Examining Anxiety: What's Normal, What's Not (pages 21–36): <br>Chapter 3 Sorting Through the Brain and Biology (pages...
+
+**Optical Imaging and Metrology: Advanced Technologies**
+
+
+**暂无封面**
+
+简介:
+A comprehensive review of the state of the art and advances in the field, while also outlining the future potential and development trends of optical imaging and optical metrology, an area of fast growth with numerous applications in nanotechnology and nanophysics....
+
+**Noble Gas Detectors**
+
+
+**暂无封面**
+
+简介:
+This book discusses the physical properties of noble fluids, operational principles of detectors based on these media, and the best technical solutions to the design of these detectors. Essential atten...
+
+**Modern Oxidation Methods, Second Edition**
+
+
+**暂无封面**
+
+简介:
+While rust is an unwanted oxidation reaction, there are also many other useful oxidation reactions that are extremely important and number among the most commonly used reactions in the chemical industry....
+
+**Patent and Trademark Tactics and Practice, Third Edition**
+
+
+**暂无封面**
+
+简介:
+The essential intellectual property reference for all areas of science and technology--covering patents, trademarks, copyrights, and trade secrets<br><br> Did you know that a patent does not give its o...
 
 <div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode.jpg" width="344"/></div>
