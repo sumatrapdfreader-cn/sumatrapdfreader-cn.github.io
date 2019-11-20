@@ -1,19 +1,43 @@
 <div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode.jpg" width="344"/></div>
 
-**Order Statistics, Third Edition**
+**Molecular Modeling of Inorganic Compounds, Third Edition**
 
-A completely revised and expanded edition of a classic resource 
 
-**Morphing Aerospace Vehicles and Structures**
+**暂无封面**
 
-Morphing Aerospace Vehicles and Structures provides a highly timely presentation of the state-of-the-art, future directions and technical requirements of morphing aircraft. 
+简介:
+After the second edition introduced first density functional theory aspects, this third edition expands on this topic and offers unique practice in molecular mechanics calculations and DFT. In addition...
 
-**Mobile Backhaul**
+**Neuronal and Cognitive Effects of Oestrogens: Novartis Foundation Symposium 230**
 
-<b>Comprehensive coverage of IP/MPLS/Ethernet backhaul technologies and solutions for 3GPP mobile network systems such as LTE, HSPA and GPRS</b>
 
-**Out in Public: Reinventing Lesbian/Gay Anthropology in a Globalizing World**
+**暂无封面**
 
-<i>Out in Public</i> addresses, and engages us in, the new and exciting directions in the emerging field of lesbian/gay anthropology. The authors offer a deep conversation about the meaning of sexuality, subjectivity and culture. 
+简介:
+Although normally thought of as a sex hormone, recent research has highlighted the numerous and significant effects that oestrogen has on the CNS, extending far beyond its important reproductive role. ...
+
+**Organic Reaction Mechanisms 2001: An Annual Survey Covering the Literature Dated January to December 2001**
+
+
+**暂无封面**
+
+简介:
+This annual series on organic reaction mechanisms research provides concise, comprehensive coverage of the year's literature as well as discussions of important results, each volume is extensively referenced to previous volumes and primary journals....
+
+**Numerical Methods, Volume 3**
+
+
+**暂无封面**
+
+简介:
+This series of five volumes proposes an integrated description of physical processes modeling used by scientific disciplines from meteorology to coastal morphodynamics. Volume 1 describes the physical ...
+
+**The Nonprofit Development Companion: A Workbook for Fundraising Success**
+
+
+**暂无封面**
+
+简介:
+<p>A comprehensive workbook covering all aspects of successful nonprofit development</p><p>One of the most significant factors in the success of any marketing and fundraising program is the ability and...
 
 <div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode.jpg" width="344"/></div>
