@@ -1,10 +1,19 @@
-<div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode_344_344.jpg" width="344"/></div>
+<div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode.jpg" width="344"/></div>
 
-## The New Carbon Economy
-<i>The New Carbon Economy</i> provides a critical understanding of the carbon economy. It offers key insights into the constitution, governance and effects of the carbon economy, across a variety of geographical settings. <ul><li>Examines different dimensions of the carbon economy from a range of disciplinary angles in a diversity of settings <li>Provides ways for researchers to subject claims of <i>newness</i> and <i>uniqueness</i> to critical scrutiny <li>Historicizes claims of the 'newness' of the carbon economy <li>Covers a range of geographical settings including Europe, the US and Central America </ul>Content: ...
-## Parasitic Helminths: Targets, Screens, Drugs and Vaccines
-This third volume in the successful 'Drug Discovery in Infectious Diseases' series is the first to deal with drug discovery in helminthic infections in human and animals. The result is a broad overview of different drug target evaluation methods, including specific examples of successful drug development against helminthes, and with a whole section devoted to vaccine development...
-## Optimality Theory in Phonology: A Reader
-<i>Optimality Theory in Phonology: A Reader </i>is a collection of readings on this important new theory by leading figures in the field, including a lengthy excerpt from Prince and Smolensky’s never-before-published <i>Optimality Theory: Constraint Interaction in Generative Grammar</i>...
+**Order Statistics, Third Edition**
 
-<div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode_344_344.jpg" width="344"/></div>
+A completely revised and expanded edition of a classic resource 
+
+**Morphing Aerospace Vehicles and Structures**
+
+Morphing Aerospace Vehicles and Structures provides a highly timely presentation of the state-of-the-art, future directions and technical requirements of morphing aircraft. 
+
+**Mobile Backhaul**
+
+<b>Comprehensive coverage of IP/MPLS/Ethernet backhaul technologies and solutions for 3GPP mobile network systems such as LTE, HSPA and GPRS</b>
+
+**Out in Public: Reinventing Lesbian/Gay Anthropology in a Globalizing World**
+
+<i>Out in Public</i> addresses, and engages us in, the new and exciting directions in the emerging field of lesbian/gay anthropology. The authors offer a deep conversation about the meaning of sexuality, subjectivity and culture. 
+
+<div align=center><img src="https://raw.githubusercontent.com/sumatrapdfreader-cn/sumatrapdfreader-cn.github.io/master/img/share/focus_qrcode.jpg" width="344"/></div>
